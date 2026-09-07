@@ -57,7 +57,7 @@ Desenvolver aplicações web responsivas, intuitivas e focadas na melhor experi�
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href=" https://www.linkedin.com/in/janine-martins-ferreira?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href=" <a href="https://www.linkedin.com/in/janine-martins-ferreira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
